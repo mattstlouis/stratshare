@@ -1,0 +1,20 @@
+body{
+	width: 980px;
+	margin: 0 auto;
+}
+
+#viewer{
+	width: 900px;
+	height: 900px;
+	float: left;
+}
+
+#main_container{
+	width: 1100px;
+}
+
+#toolbox_left{
+	float: left;
+	width: 200px;
+	height: 900px;
+}
